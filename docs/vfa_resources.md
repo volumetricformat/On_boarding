@@ -1,11 +1,9 @@
 ## VFA Resources
- - GitHub
- - Groups.io
- - Website
+ - GitHub - [VFA GitHub Training Manutal(https://seanmcilroy29.github.io/training-manual/#/)
+ - Groups.io(https://volumetric.groups.io/g/main)
+ - [Website](https://www.volumetricformat.org/)
 
 ### [VFA GitHub Repo's](https://github.com/volumetricformat)
-
-####
  - Public & Private
  - Version Control
  - Baselines

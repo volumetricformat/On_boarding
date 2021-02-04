@@ -20,6 +20,3 @@ Organisational Structure
 ### Working Groups (WG)
 - Steering, Associate, Contributors
 - Technical Work
-
-### Moderators
- - Project Managers

@@ -1,6 +1,6 @@
 ## VFA Structure 
 
-![GitHub Workflow](./gifs/vfa_governance.svg)
+![GitHub Workflow](./img/vfa_governance.svg)
 
 Organisational Structure
 

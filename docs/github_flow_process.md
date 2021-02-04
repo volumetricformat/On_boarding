@@ -3,7 +3,7 @@
 ### GitHub Specification Development Phases
 
   <figure>
-	<img src="images/vfa-dev-process.svg" alt="GitHub Flow Process">
+	<img src="img/vfa-dev-process.svg" alt="GitHub Flow Process">
 	<figcaption>GitHub Flow Process</figcaption>
 </figure> 
 

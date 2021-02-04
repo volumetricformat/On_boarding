@@ -2,7 +2,7 @@
 ## Groups.io
 
 ### Access to the Working Group
-Access to the VFA groups.io portal is by Invitation Only
+Access to the [VFA groups.io](https://volumetric.groups.io/g/main) portal is by Invitation Only
 
 1. Your company MUST sign the corresponding WG Charter FIRST 
 1. If your company has signed it, you can ask for an invitation
@@ -15,7 +15,6 @@ How do I know if my company has signed a particular Charter?
 1. raise a Service Desk Request OMP All / General / Service Desk
 
 ### Groups.io Working Groups Teams
-
 1. BoD - Restricted Access
 1. VFA All - All VFA Members
 

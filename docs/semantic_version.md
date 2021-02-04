@@ -1,7 +1,7 @@
 ## Documentation - Semantic Versioning
 
 <figure>
-	<img src="images/vfa_semantic_versioning.svg" alt="Semantic Versioning">
+	<img src="img/vfa_semantic_versioning.svg" alt="Semantic Versioning">
 	<figcaption>Semantic Versioning</figcaption>
 </figure>
 

@@ -9,7 +9,7 @@
 How VFA is organized, Working Groups, Organization & Communication Team duties 
 
 <figure>
-	<img src="images/vfa_governance.svg" alt="VFA Governance Structure">
+	<img src="img/vfa_governance.svg" alt="VFA Governance Structure">
 	<figcaption>VFA Governance Structure</figcaption>
 </figure>
 

@@ -1,7 +1,8 @@
 ![logo](./img/vfa_logo.PNG ':no-zoom')
 
-# [VFA Onboarding Orientation](Introduction.md)
-[日本語](/ja/)
-[PDF](book.pdf)
+# [Volumetric Website](https://www.volumetricformat.org/)
+
+[Volumetric Website](https://www.volumetricformat.org/)
+[helpdesk](mailto:helpdesk@volumetricformat.org)
 
 ![color](#f6f8fa)

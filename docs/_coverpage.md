@@ -1,5 +1,5 @@
 ![logo](./img/vfa_logo.PNG ':no-zoom')
 
-# [VFA Onboarding Orientation](01_creating_an_account.md)
+# [VFA Onboarding Orientation](Introduction.md)
 
 ![color](#f6f8fa)

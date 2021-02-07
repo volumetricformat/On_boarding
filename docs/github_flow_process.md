@@ -8,11 +8,12 @@
 </figure> 
 
 ## VFA Membership GitHub Access Rights
-Members
+
+**Members**
     - TRIAGE (read & clone, issues)
-Editors
+**Editors**
     - WRITE (read, clone, push, issues)
-Chairs
+**Chairs**
    - WRITE (read, clone, push, issues)
-Maintainer
+**Maintainer**
    - ADMINISTRATOR (read, clone, push, issues, settings)

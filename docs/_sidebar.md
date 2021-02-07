@@ -1,6 +1,6 @@
 - 1: VFA Introduction
   - [Introduction to VFA](Introduction.md)
-  - [VFA Structure](VFA_Structure.md)
+  - [VFA Structure](vfa_Structure.md)
   - [VFA Members](vfa_members.md)
   - [VFA Resources](vfa_resources.md)
 

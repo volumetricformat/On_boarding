@@ -21,13 +21,13 @@
 ## [Groups.io](https://volumetric.groups.io/g/main)
 - Private
 - Working Group wiki pages
- - Meeting calendar 
- - Meeting link details
+  - Meeting calendar 
+  - Meeting link details
 - Supporting documents
- - Agenda
- - Minutes
- - Presentations
- - Voting 
+  - Agenda
+  - Minutes
+  - Presentations
+  - Voting 
 
 ## [VFA Website](https://www.volumetricformat.org/)
 

@@ -1,13 +1,13 @@
-## GitHub Flow Process
+# GitHub Flow Process
 
-### GitHub Specification Development Phases
+## GitHub Specification Development Phases
 
   <figure>
 	<img src="img/vfa-dev-process.svg" alt="GitHub Flow Process">
 	<figcaption>GitHub Flow Process</figcaption>
 </figure> 
 
-### VFA Membership GitHub Access Rights
+## VFA Membership GitHub Access Rights
 Members
     - TRIAGE (read & clone, issues)
 Editors

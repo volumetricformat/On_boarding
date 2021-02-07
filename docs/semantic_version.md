@@ -1,4 +1,4 @@
-## Documentation - Semantic Versioning
+# Documentation - Semantic Versioning
 
 <figure>
 	<img src="img/vfa_semantic_versioning.svg" alt="Semantic Versioning">

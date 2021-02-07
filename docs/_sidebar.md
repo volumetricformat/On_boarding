@@ -12,7 +12,7 @@
   - [Semantic Versioning](semantic_versioning.md)
 
 - 3: GitHub
-  - [GitHub Training](
+  - [GitHub Training]()
   - [Creating an Account](creating_an_account.md)
   - [VFA Repositories](vfa_repositories.md)
   

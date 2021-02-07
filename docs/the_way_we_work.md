@@ -21,5 +21,3 @@ How VFA is organized, Working Groups, Organization & Communication Team duties
    - Not eligible for approving new WGs, no governance rights 
 - Contributors
    - No voting rights
-
-

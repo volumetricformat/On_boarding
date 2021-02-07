@@ -1,4 +1,4 @@
-## Working with wiki pages
+# Working with wiki pages
 
 Groups.io provides a Wiki feature that members can use to view, create, and edit wiki pages on a group’s website. Example uses for a group wiki include (but are not limited to):
 
@@ -6,7 +6,7 @@ Providing a repository of information that is relevant to the group—for exampl
 Documenting frequently asked questions and their answers
 > Note: Group owners determine whether the Wiki feature is available in their groups and, if it is, who can view, create, and edit wiki pages: the general public (view only), all group members, or only group owners and moderators.
 
-### Working Group (WG) wiki page
+## Working Group (WG) wiki page
 Each WG wiki landing page offers an overview of the appointments, objectives and key activities
 
 - [Understanding the Wiki](https://groups.io/helpcenter/membersmanual/1/working-with-wiki-pages/understanding-the-wiki-feature)

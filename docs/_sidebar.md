@@ -4,7 +4,7 @@
   - [VFA Members](vfa_members.md)
   - [VFA Resources](vfa_resources.md)
 
-- 2: Getting Started - The way we work
+- 2: The way we work
   - [Getting Started](getting_started.md)
   - [The Way We Work](the_way_we_work.md)
   - [VFA Life Cycle](vfa_process.md)

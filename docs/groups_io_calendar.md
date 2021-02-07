@@ -1,10 +1,10 @@
-## Groups.io Resources
+# Groups.io Resources
 
-### Calendar
+## Calendar
 Groups.io provides a Calendar feature that members can use to view and create group events.
 > Note: Group owners determine whether the Calendar feature is available in their groups and, if it is, who can view and create events: the general public (view only), all group members, or only group owners and moderators.
 
-#### [Adding calendar ](https://groups.io/helpcenter/membersmanual/1/working-with-calendars/adding-calendar-events)
+## [Adding calendar ](https://groups.io/helpcenter/membersmanual/1/working-with-calendars/adding-calendar-events)
 Click in the date on which you want to add the event, or, at the bottom of the page, click the **Add Event** button.
 > Note: If the button is not available to you (you cannot click it), the group’s owner allows only moderators to create calendar entries.
 Complete the Event page:

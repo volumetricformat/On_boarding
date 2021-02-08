@@ -9,7 +9,7 @@
   - [The Way We Work](the_way_we_work.md)
   - [VFA Life Cycle](vfa_process.md)
   - [GitHub Flow Process](github_flow_process.md)
-  - [Semantic Versioning](semantic_versioning.md)
+  - [Semantic Versioning](semantic_version.md)
 
 - 3: GitHub
   - [GitHub Training](https://seanmcilroy29.github.io/training-manual/#/)

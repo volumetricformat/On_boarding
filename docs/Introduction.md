@@ -5,7 +5,7 @@ These pages offer new members an overview of;
 An overview of the Working Group structure and primary contacts.
 
 ### The Way We Work
-- Processes and procedures to be followed by VFA Members. 
+Processes and procedures to be followed by VFA Members. 
 - [guidelines](https://github.com/volumetricformat/the_way_we_work/blob/proposal/Rules/the_way_we_work.md)
 
 ### GitHub 
@@ -24,8 +24,9 @@ Dedicated Space for VFA members to communicate informally in open or closed chan
 [Sign-in here](https://slack.com/signin#/signin)
 
 ### GoToMeeting
-- Platform that will hosts all the Working Group Conf Calls. To access meeting schedule, see groups.io calendars in the associated Working Group area.
+Platform that will hosts all the Working Group Conf Calls. To access meeting schedule, see groups.io calendars in the associated Working Group area.
 - Download GoToMeeting [App here](https://global.gotomeeting.com/install)
 - [FAQs](https://support.goto.com/meeting)
 
 ### Etherpad
+Highly collaborative editing tool used in really real-time for Agenda & Minutes

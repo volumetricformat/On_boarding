@@ -6,7 +6,7 @@ An overview of the Working Group structure and primary contacts.
 
 ### The Way We Work
 - Processes and procedures to be followed by VFA Members. 
-- [https://github.com/volumetricformat/the_way_we_work/blob/proposal/Rules/the_way_we_work.md](Guidelines)
+- [guidelines](https://github.com/volumetricformat/the_way_we_work/blob/proposal/Rules/the_way_we_work.md)
 
 ### GitHub 
 [GitHub](https://github.com/volumetricformat) will form the basis for all VFA Working Group Activities.

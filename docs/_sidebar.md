@@ -1,6 +1,6 @@
 - 1: VFA overview
-  - [Contacts](contacts.md)
   - [Introduction to VFA](Introduction.md)
+  - [Contacts](contacts.md)
   - [VFA Structure](vfa_Structure.md)
   - [VFA Members](vfa_members.md)
 

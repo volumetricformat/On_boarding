@@ -4,11 +4,8 @@
   - [VFA Structure](vfa_Structure.md)
   - [VFA Members](vfa_members.md)
 
-- 2: The way we work
-  - [Getting Started](getting_started.md)
-  - [The Way We Work](the_way_we_work.md)
-  - [VFA Life Cycle](vfa_process.md)
-  - [GitHub Flow Process](github_flow_process.md)
+- 2: [The Way we Work](https://seanmcilroy29.github.io/vfa_process_and_procedures/#/the_way_we_work)
+  - [Life Cycle of Technical Specifications](Life_Cycle_of_Technical_Specifications.md)
   - [Semantic Versioning](semantic_version.md)
 
 - 3: GitHub

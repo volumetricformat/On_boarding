@@ -4,7 +4,7 @@
 [Denny Breitenfeld](mailto:denny.breitenfeld2@verizon.com) Verizon
 
 - Technical Chair
-[Niko Chaul](mailto:niko.chauls@verizonwireless.com)Verizon
+[Niko Chaul](mailto:niko.chauls@verizonwireless.com) Verizon
 
 - Executive Director
 [Elizabeth Rose](mailto:elizabeth@standardshub.io)

@@ -1,12 +1,13 @@
 # VFA Structure 
 
-![GitHub Workflow](./img/vfa_governance.svg)
+![Organisational Structure](./img/vfa_governance.svg)
 
 Organisational Structure
 
 ## Steering Committee
+- Chairman [Niko Chaul](niko.chauls@verizonwireless.com)Verizon
+- Vice Chairman
 - Steering Members
-- Senior Managers
 - [Governance](https://github.com/volumetricformat/the_way_we_work/blob/Initial_proposal/Support_Documentation/Governance.md)
 
 ## Organization Team (ORG)

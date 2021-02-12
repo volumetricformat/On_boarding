@@ -13,7 +13,7 @@ An overview of the Working Group structure and primary contacts.
 - A Training Manual has been create to offer an overview on how to perform basic GitHub functions
 
 ### Groups.io
-[This area](https://volumetric.groups.io/g/main)centralises all the admin requirements for VFA;
+[This area](https://volumetric.groups.io/g/main) centralises all the admin requirements for VFA;
 - Private
 - Working Group wiki pages
   - Meeting calendar 

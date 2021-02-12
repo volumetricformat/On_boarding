@@ -18,7 +18,7 @@ How do I know if my company has signed a particular Charter?
 1. BoD - Restricted Access
 1. VFA All - All VFA Members
 
-## [Groups.io Resources](groups_io_resources.md)
+## Groups.io Resources
 - Services desk
 - Calendar
 - Polls

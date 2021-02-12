@@ -5,7 +5,7 @@
 Organisational Structure
 
 ## Steering Committee
-- Chairman [Niko Chaul](niko.chauls@verizonwireless.com)Verizon
+- Chairman [Niko Chaul](niko.chauls@verizonwireless.com) Verizon
 - Vice Chairman
 - Steering Members
 - [Governance](https://github.com/volumetricformat/the_way_we_work/blob/Initial_proposal/Support_Documentation/Governance.md)

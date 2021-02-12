@@ -3,7 +3,6 @@
   - [Introduction to VFA](Introduction.md)
   - [VFA Structure](vfa_Structure.md)
   - [VFA Members](vfa_members.md)
-  - [VFA Resources](vfa_resources.md)
 
 - 2: The way we work
   - [Getting Started](getting_started.md)

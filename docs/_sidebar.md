@@ -1,4 +1,4 @@
-- 1: VFA Introduction
+- 1: VFA overview
   - [Contacts](contacts.md)
   - [Introduction to VFA](Introduction.md)
   - [VFA Structure](vfa_Structure.md)

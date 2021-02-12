@@ -13,10 +13,6 @@ Organisational Structure
 - Steering Members
 - Day to day running of the organization
 
-## Marketing Team
-- Steering Members
-- Marketing, Press Material
-
 ## Working Groups (WG)
 - Steering, Associate, Contributors
 - Technical Work

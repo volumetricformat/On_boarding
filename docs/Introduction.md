@@ -1,19 +1,19 @@
-# Welcome to VFA "walking tour"!
-
-## These pages off new members an overview of;
+# Welcome to VFA "walking tour" 
+These pages offer new members an overview of;
 
 ## VFA Overview
 An overview of the Working Group structure and primary contacts.
 
-### The Way We Work - [https://github.com/volumetricformat/the_way_we_work/blob/proposal/Rules/the_way_we_work.md](Guidelines)
+### The Way We Work
 - Processes and procedures to be followed by VFA Members. 
+- [https://github.com/volumetricformat/the_way_we_work/blob/proposal/Rules/the_way_we_work.md](Guidelines)
 
-### GitHub - [https://github.com/volumetricformat](VFA Github repository)
-GitHub will form the basis for all VFA Working Group Activities.
+### GitHub 
+[GitHub](https://github.com/volumetricformat) will form the basis for all VFA Working Group Activities.
 - A Training Manual has been create to offer an overview on how to perform basic GitHub functions
 
-### Groups.io - [https://volumetric.groups.io/g/main](Access here)
-This area centralises all the admin requirements for VFA;
+### Groups.io
+[This area](https://volumetric.groups.io/g/main)centralises all the admin requirements for VFA;
 - Private
 - Working Group wiki pages
   - Meeting calendar 
@@ -24,8 +24,9 @@ This area centralises all the admin requirements for VFA;
   - Presentations
   - Voting 
 
-### Slack - [vfa-org.slack.com](https://slack.com/signin#/signin)
+### Slack
 Dedicated Space for VFA members to communicate informally in open or closed channels
+[Sign-in here](https://slack.com/signin#/signin)
 
 ### GoToMeeting
 - Platform that will hosts all the Working Group Conf Calls. To access meeting schedule, see groups.io calendars in the associated Working Group area.

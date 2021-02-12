@@ -12,17 +12,12 @@ An overview of the Working Group structure and primary contacts.
 [GitHub](https://github.com/volumetricformat) will form the basis for all VFA Working Group Activities.
 - A Training Manual has been create to offer an overview on how to perform basic GitHub functions
 
-### Groups.io
+### Groups.io (Members only area)
 [This area](https://volumetric.groups.io/g/main) centralises all the admin requirements for VFA;
-- Private
 - Working Group wiki pages
-  - Meeting calendar 
-  - Meeting link details
+- Meeting calendar 
+- Meeting link details
 - Supporting documents
-  - Agenda
-  - Minutes
-  - Presentations
-  - Voting 
 
 ### Slack
 Dedicated Space for VFA members to communicate informally in open or closed channels

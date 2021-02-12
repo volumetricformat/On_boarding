@@ -1,22 +1,22 @@
 # Volumetric Format Association Inc. - Contacts
 
-## President
+- President
 [Denny Breitenfeld](denny.breitenfeld2@verizon.com) Verizon
 
-## Technical Chair
+- Technical Chair
 [Niko Chaul(niko.chauls@verizonwireless.com) Verizon
 
-## Executive Director
+- Executive Director
 [Elizabeth Rose](elizabeth@standardshub.io)
 
-## Principle Project Manager
+- Principle Project Manager
 [Sean McIlroy](sean@standardshub.io)
 
-## Finance
+- Finance
 [Lisa Robotti](lisa@fullspectrumbookkeeping.com)
 
-## Membership
+- Membership
 [Michelle Janata](michelle@standardshub.io)
 
-## Technical Support
+- Technical Support
 [helpdesk@volumetricformat.org](Helpdesk)

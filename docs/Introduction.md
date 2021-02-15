@@ -1,5 +1,11 @@
-# Welcome to VFA "walking tour" 
-These pages offer new members an overview of;
+
+[<img src="./img/vfa_logo.PNG" alt="drawing" width="150"/>](https://www.volumetricformat.org/)
+
+# Our Work
+VFA is leading the way to a unified volumetric video ecosystem by defining a set of open specifications that encourage partnership and collaboration while reducing fragmentation for the entire industry.
+
+## Membership
+Our members are the titans of video capture, broadcast, and delivery.  With membership roles for Enterprises, Innovators, and Adopters, VFA has a place for all companies on the cutting edge of video technology. 
 
 ## VFA Overview
 An overview of the Working Group structure and primary contacts.

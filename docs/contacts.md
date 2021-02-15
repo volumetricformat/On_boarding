@@ -9,22 +9,24 @@
 **Executive Director**
 [Elizabeth Rose](mailto:elizabeth@standardshub.io)
 
-![Elizabeth](./img/Elizabeth.PNG)
+<img src="./img/Elizabeth.PNG" alt="drawing" width="150"/>
 
 **Principle Project Manager**
 [Sean McIlroy](mailto:sean@standardshub.io)
 
-![sean](./img/sean.PNG)
+<img src="./img/sean.PNG" alt="drawing" width="150"/>
 
 **Finance**
 [Lisa Robotti](mailto:lisa@fullspectrumbookkeeping.com)
 
-![lisa](./img/lisa.PNG)
+<img src="./img/lisa.PNG" alt="drawing" width="150"/>
 
 **Membership**
 [Michelle Janata](mailto:michelle@standardshub.io)
 
-![Michelle](./img/Michelle.PNG)
+<img src="./img/Michelle.PNG" alt="drawing" width="150"/>
 
 **Technical Support**
 [Helpdesk](mailto:helpdesk@volumetricformat.org)
+
+<img src="./img/support.PNG" alt="drawing" width="150"/>

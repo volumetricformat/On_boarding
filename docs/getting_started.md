@@ -1,3 +1,4 @@
+[<img src="./img/vfa_logo.PNG" alt="drawing" width="150"/>](<a href="https://www.volumetricformat.org/" target="_blank">)
 # Getting Started
 
 ## [The Way We Work](https://github.com/volumetricformat/the_way_we_work/blob/Initial_proposal/Rules/the_way_we_work.md#scope)

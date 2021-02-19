@@ -4,12 +4,9 @@
 Groups.io provides a Calendar feature that members can use to view and create group events.
 > Note: Group owners determine whether the Calendar feature is available in their groups and, if it is, who can view and create events: the general public (view only), all group members, or only group owners and moderators.
 
-## Adding calendar
-![add_calendar](./gifs/add_calendar.gif)
+## Create Calendar Event
 
-Click in the date on which you want to add the event, or, at the bottom of the page, click the **Add Event** button.
-> Note: If the button is not available to you (you cannot click it), the group’s owner allows only moderators to create calendar entries.
-Complete the Event page:
+![add_calendar](./gifs/add_calendar.gif)
 
 | Item      | Description |
 | ----------- | ----------- |
@@ -20,5 +17,14 @@ Complete the Event page:
 | Event Information panel   | Complete the desired fields (all are optional). |
 | Reminders panel   | If desired, click the Add Reminder button to add one or more reminder notices that will be sent to the group before the event occurs. Click Add Reminder for each reminder you want to add.|
 | Sent Notice To Group When Event Happens check box  | Select this check box if you want a message to be sent to the group automatically at the time the event occurs. The message will be tagged with the #cal-notice hashtag. |
+
+## Download Calendar Event
+![add_calendar](./gifs/add_to_calander.gif)
+
+Click in the date on which you want to add the event, or, at the bottom of the page, click the **Add Event** button.
+> Note: If the button is not available to you (you cannot click it), the group’s owner allows only moderators to create calendar entries.
+Complete the Event page:
+
+
 
 

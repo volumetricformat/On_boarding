@@ -23,7 +23,7 @@ Processes and procedures to be followed by VFA Members.
 
 ## Slack 
 Dedicated Space for VFA members to communicate informally in open or closed channels
-[Sign-in here](https://slack.com/signin#/signin)
+[Sign-in here](https://vfa-org.slack.com/)
 
 ## GoToMeeting
 Platform that hosts all the Working Group Conf Calls. To access Working Group meeting schedules, see [groups.io calendars](https://volumetric.groups.io/g/main/calendar) in the associated Working Group area.

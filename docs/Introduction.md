@@ -42,10 +42,6 @@ An overview of the Working Group structure and primary contacts.
       <td><a href="https://volumetric.groups.io/g/main/calendar" target="_blank"><strong>GoToMeetings</strong></a></td>
       <td>Platform that hosts all the Working Group Conf Calls</td>
    </tr>
-      <tr>
-      <td><a href="" target="_blank"><strong>Go2Meeting/strong></a></td>
-      <td>Dedicated Conf Call Working Group Bridges</td>
-   </tr>
    <tr>
   <td rowspan="3"><i><strong>Private-GitHub</strong></i></td>
         <td><a href="https://volumetric.groups.io/g/main" target="_blank"><strong>Website</strong></a></td>

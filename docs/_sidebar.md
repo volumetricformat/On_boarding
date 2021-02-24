@@ -2,7 +2,7 @@
   - [Introduction to VFA](Introduction.md)
   - [Contacts](contacts.md)
   - [VFA Structure](vfa_Structure.md)
-  - [VFA Members](vfa_members.md)
+  - [VFA Membership Level Benifits](vfa_members.md)
 
 - 2: [The Way we Work](https://seanmcilroy29.github.io/vfa_process_and_procedures/#/the_way_we_work)
   - [Life Cycle of Technical Specifications](Life_Cycle_of_Technical_Specifications.md)

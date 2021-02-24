@@ -9,26 +9,64 @@ Our members are the titans of video capture, broadcast, and delivery.  With memb
 # VFA Resource Overview
 An overview of the Working Group structure and primary contacts.
 
-## The Way We Work
-Processes and procedures to be followed by VFA Members. 
-- [guidelines](https://github.com/volumetricformat/the_way_we_work/blob/proposal/Rules/the_way_we_work.md)
-
-## GitHub 
-[GitHub](https://github.com/volumetricformat) will form the basis for all VFA Working Group Activities.
-- [Training Manual Guidelines](https://seanmcilroy29.github.io/training-manual/#/) to offer an overview on how to perform basic GitHub functions
-- [Create an account](https://seanmcilroy29.github.io/training-manual/#/01_creating_an_account) to access VFA repositories
-
-## Groups.io (Members only area)
-[This area](https://volumetric.groups.io/g/main) centralises all the admin requirements for VFA;
-
-## Slack 
-Dedicated Space for VFA members to communicate informally in open or closed channels
-[Sign-in here](https://vfa-org.slack.com/)
-
-## GoToMeeting
-Platform that hosts all the Working Group Conf Calls. To access Working Group meeting schedules, see [groups.io calendars](https://volumetric.groups.io/g/main/calendar) in the associated Working Group area.
-- Download GoToMeeting [App here](https://global.gotomeeting.com/install)
-- [FAQs](https://support.goto.com/meeting)
-
-## Etherpad
-Highly collaborative editing tool used in really real-time for Agenda & Minutes
+<table>
+  <caption></caption>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>System</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    
+   <tr>
+      <td rowspan="3"><i><strong>Public</strong></i></td>
+      <td><a href="https://www.volumetricformat.org/" target="_blank"><strong>Website</strong></a></td>
+      <td>Public website dedicated to marketing content.</td>
+   </tr>
+   <tr>
+      <td><a href="https://" target="_blank"><strong>GitHub Landing Pages (public)</strong></a></td>
+      <td>VFA GitHub repositories open to the public.</td>
+   </tr>	 
+    <tr>
+      <td><a href="https://www.volumetricformat.org/" target="_blank"><strong>Company enrollment</strong></a></td>
+      <td>Process steps on how to join VFA</td>
+   </tr>
+   <tr>
+      <td rowspan="2"><i><strong>Private - Groups.io</strong></i></td>
+      <td><a href="https://volumetric.groups.io/g/main" target="_blank"><strong>Website</strong></a></td>
+      <td> Welcome to VFA Groups.io</td>
+   </tr>
+   <tr>
+      <td><a href="https://volumetric.groups.io/g/main/calendar" target="_blank"><strong>GoToMeetings</strong></a></td>
+      <td>Platform that hosts all the Working Group Conf Calls</td>
+   </tr>
+      <tr>
+      <td><a href="" target="_blank"><strong>Go2Meeting/strong></a></td>
+      <td>Dedicated Conf Call Working Group Bridges</td>
+   </tr>
+   <tr>
+  <td rowspan="3"><i><strong>Private-GitHub</strong></i></td>
+        <td><a href="https://volumetric.groups.io/g/main" target="_blank"><strong>Website</strong></a></td>
+      <td> Welcome to VFA Groups.io</td>
+   </tr>
+   <tr>
+      <td><a href="https://" target="_blank"><strong>Working with GitHub</strong></a></td>
+      <td>Guidelines on how to work with GitHub</td>
+   </tr> 
+   <tr>
+      <td><a href="https://github.com/volumetricformat" target="_blank"><strong>Working Group Repositories</strong></a></td>
+      <td>Each repository contains a CONTRIBUTING.md file that explains how to contribute on that particular repository.</td>
+   </tr>
+   <tr>
+      <td rowspan="2"><i><strong>Private Slack</strong></i></td>
+      <td><a href="https://volumetric.groups.io/g/main" target="_blank"><strong>Website</strong></a></td>
+      <td> Welcome to VFA Groups.io</td>
+   </tr>
+   <tr>
+      <td><a href="vfa-org.slack.com" target="_blank"><strong>Slack space channel</strong></a></td>
+      <td>Private and Open channels for informal member communication.</td>
+   </tr>
+  </tbody>
+</table>

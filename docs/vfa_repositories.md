@@ -3,23 +3,19 @@
 ## WG Repositories (Private)
 This is where all the Working Groups will be listed with an overview of their objective
 
-## [The Way we Work](https://github.com/volumetricformat/the_way_we_work) (Public)
-This repository is dedicated to;
-- Process and procedures
-- Governance 
-- How to collaborate in a projects
+> To gain access to the VFA repository please forward your GitHub account name to helpdesk@volumetricformat.org
 
-## [Templates](https://github.com/volumetricformat/Templates) (Private)
-Repository dedicated to define templates for VFA
+GitHub is designed to run on the current versions of all major browsers.
 
-## [Dictionary](https://github.com/volumetricformat/Dictionary) (Private)
-This repository is dedicated to constructing a common set of definitions used by the VFA members.
+## VFA Repositories
+VFA repositories Access via your browser - https://github.com/volumetricformat
 
-## [Charters](https://github.com/volumetricformat/Charter) (Private)
-This repository contains all the VFA Working Group Charters
+## GitHub Personal Account - Github.com/my personal_account
+Those repositories that you or the system have **Forked** on your behalf they are available in your online Personal GitHub Account
+> The browser will perform some GIT operations automatically on your behalf
 
-## [Git Hub Training Material](https://github.com/volumetricformat/GitHub_Training_Material) (Public)
-This repository is dedicated to VFA members to practice GitHub operations: Pull Requests, Issues etc.
-
-## [On Boarding for VFA members]() (Public)
-This repository is dedicated to VFA member onboarding familiarisation
+## GitHub Client (Advanced)
+GitHub Client performs operations between your computer, OMP GitHub and your personal GitHub account.
+Your computer hard drive stores a database which contains ALL the branches in the GitHub repository.
+This client is a GUI that performs GIT operations on your behalf.
+>Git Operations allows you to perform operations between GitHub accounts (personal and VFA) and your hard drive.

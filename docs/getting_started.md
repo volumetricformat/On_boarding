@@ -1,16 +1,42 @@
-[<img src="./img/vfa_logo.PNG" alt="drawing" width="150"/>](<a href="https://www.volumetricformat.org/" target="_blank">)
-# Getting Started
+## Getting Started
 
-## [The Way We Work](https://github.com/volumetricformat/the_way_we_work/blob/Initial_proposal/Rules/the_way_we_work.md#scope)
-This repository is dedicated to the process and procedures to be followed by the Volumetric Format Association (VFA).
+### Groups.io (Private)
 
-## [Governance](https://github.com/volumetricformat/the_way_we_work/blob/Initial_proposal/Rules/the_way_we_work.md#governance)
-- How VFA is organized, Working Groups, Organization & Communication Team duties 
+Groups.io centralises all admin requirements for VFA members 
 
-## [VFA Membership Levels & Associated Benefits](https://github.com/volumetricformat/the_way_we_work/blob/Initial_proposal/Support_Documentation/membership_benefits.md)
-- Steering 
-   - participate in Steering committee meetings, approval of WG formation
-- Associate
-   - Not eligible for approving new WGs, no governance rights 
- - Contributors
-   - No voting rights
+- **Email distribution lists** can be accessed [here](https://volumetric.groups.io/g/main/subgroups ) to – Join or unsubscribe
+- **Wiki page** – Specific links and information for each Working Group
+- **Main page** - Generic VFA Information
+- **Files** – Specific Working Group Documentation & presentation  
+- **Meeting schedule, calendar dates** – View & Download a specific meeting schedule
+- **Polls** - Members to vote on a submitted question
+
+> To access the VFA Groups.io account, login [here](https://volumetric.groups.io/) with you company email address
+
+### GitHub (Private)
+
+This repository will form the basis for all [VFA Working Group Activities](https://github.com/volumetricformat)
+
+- **Working Group repositories** – Development of Specs & Sup files
+- **Templates** – Standardized templates (Approved by TSC)
+- **Dictionary** - Common collection of definitions and abbreviations (Approved by TSC)
+- **GitHub Training Material** (Public) - https://github.com/volumetricformat/GitHub_Training   
+- **The Way We Work** - Process and procedures to be followed by the VFA WG(s)
+
+> To access the VFA GitHub area, forward your company associated GitHub account to helpdesk@volumetricformat.org 
+
+### Slack (Private)
+
+[This space](vfa-org.slack.com) is for VFA members to communicate informally with other members.  
+
+Slack should not be used to communicate decision that would normally be made more formally in the group (technical decision / Board decision)
+Information that is to be incorporated into the specification or decisions for the Board should be included in formal contributions. 
+
+**Member only channels**;
+- vfa-tsc
+- vfa-bod
+- vfa-helpdesk (Open channel)
+
+All issues and assistance  - helpdesk@volumetricformat.org (Always monitored)
+
+

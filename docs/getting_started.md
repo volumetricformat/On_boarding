@@ -13,7 +13,7 @@ Groups.io centralises all admin requirements for VFA members
 
 > To access the VFA Groups.io account, login [here](https://volumetric.groups.io/) with you company email address
 
-### GitHub (Private)
+### GitHub (Private)  [GitHub Guidelines](https://volumetricformat.github.io/GitHub_Training/#/)
 
 This repository will form the basis for all [VFA Working Group Activities](https://github.com/volumetricformat)
 

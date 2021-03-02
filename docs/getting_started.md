@@ -25,6 +25,9 @@ This repository will form the basis for all [VFA Working Group Activities](https
 
 > To access the VFA GitHub area, forward your company associated GitHub account to helpdesk@volumetricformat.org 
 
+[GitHub member Guidelines](https://volumetricformat.github.io/GitHub_Training/#/)
+
+
 ### Slack (Private)
 
 [This space](vfa-org.slack.com) is for VFA members to communicate informally with other members.  

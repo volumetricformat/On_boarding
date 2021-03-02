@@ -16,14 +16,14 @@ You can set up your free account by following these steps:
 
 GitHub is designed to run on the current versions of all major browsers.
 
-#### VFA Repositories
+### VFA Repositories
 VFA repositories Access via your browser - https://github.com/volumetricformat
 
-#### GitHub Personal Account - Github.com/my personal_account
-Those repositories that you or the system have **Forked** on your behalf they are available in your online Personal GitHub Account
+### GitHub Personal Account 
+Those repositories that you or the system have **Forked** on your behalf they are available in your online Personal [GitHub Account](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
 > The browser will perform some GIT operations automatically on your behalf
 
-#### GitHub Client (Advanced)
+### GitHub Client (Advanced)
 GitHub Client performs operations between your computer, OMP GitHub and your personal GitHub account.
 Your computer hard drive stores a database which contains ALL the branches in the GitHub repository.
 This client is a GUI that performs GIT operations on your behalf.

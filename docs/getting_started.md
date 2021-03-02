@@ -32,7 +32,7 @@ This repository will form the basis for all [VFA Working Group Activities](https
 
 [This space](vfa-org.slack.com) is for VFA members to communicate informally with other members.  
 
-Slack should not be used to communicate decision that would normally be made more formally in the group (technical decision / Board decision)
+Slack should not be used to communicate decisions that would normally be made more formally in the group (technical decision / Board decision)
 Information that is to be incorporated into the specification or decisions for the Board should be included in formal contributions. 
 
 **Member only channels**;

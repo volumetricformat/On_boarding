@@ -2,7 +2,7 @@
   - [Introduction to VFA](Introduction.md)
   - [Getting Started](getting_started.md)
   - [VFA Structure](vfa_Structure.md)
-  - [VFA Membership Level Benifits](vfa_members.md)
+  - [VFA Resources](resources.md)
   - [Getting Help From Staff](getting_help_from_staff.md)
   - [Staff Contacts](contacts.md)
 

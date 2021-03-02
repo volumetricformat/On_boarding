@@ -15,7 +15,7 @@ Groups.io centralises all admin requirements for VFA members
 
 [Groups.io overview](groups.io.md)
 
-## GitHub (Private)  [GitHub Guidelines](https://volumetricformat.github.io/GitHub_Training/#/)
+## GitHub (Private)
 
 This repository will form the basis for all [VFA Working Group Activities](https://github.com/volumetricformat)
 

@@ -1,30 +1,33 @@
 [<img src="./img/vfa_logo.PNG" alt="drawing" width="150"/>](<a href="https://www.volumetricformat.org/" target="_blank">)
-# Groups.io
+# Groups.io (Private)
 
-## Access to the Working Group
+Groups.io centralises all admin requirements for VFA members 
+ ## Groups.io Resouces
+ 
+- **Email distribution lists** can be accessed [here](https://volumetric.groups.io/g/main/subgroups ) to – Join or unsubscribe
+- **Wiki page** – Specific links and information for each Working Group
+- **Main page** - Generic VFA Information
+- **Files** – Specific Working Group Documentation & presentation  
+- **Meeting schedule, calendar dates** – View & Download a specific meeting schedule
+- **Polls** - Members to vote on a submitted question
+
+## Access to Groups.io
 Access to the [VFA groups.io](https://volumetric.groups.io/g/main) portal is by Invitation Only
 
-1. Your company MUST sign the corresponding WG Charter FIRST 
+1. Your company MUST sign the VFA Membership Agreement 
 1. If your company has signed it, you can ask for an invitation
 
-> If your company hasn't signed, unfortunately you won't be invited
+> To access the VFA Groups.io account, login [here](https://volumetric.groups.io/) with you company email address
+
+> If your company hasn't signed, unfortunately you won't be invited or will be rejected when trying to sign-in.
 
 How do I know if my company has signed a particular Charter?
-1. check VFA All / Onboarding / Wiki
-1. send an email to help@volumetric.groups.io
-1. raise a Service Desk Request OMP All / General / Service Desk
+1. send an email to helpdesk@volumetricformat.org or see [Staff Contacts](contacts.md)
 
-## Groups.io Working Groups Teams
-1. BoD - Restricted Access
-1. VFA All - All VFA Members
-
-## Groups.io Resources
-- Services desk
-- Calendar
-- Polls
-- Working Group Wiki page
-- Files
+## Groups.io Working Area
+1. BoD - Restricted BoD members only
+2. TSC - Restricted TSC members only
+3. Individual Working Group areas - All VFA Members
 
 ## Service Desk
-All issues, problems & FAQs: send an email to help@volumetric.groups.io
-
+All issues, problems & FAQs: send an email to helpdesk@volumetricformat.org  

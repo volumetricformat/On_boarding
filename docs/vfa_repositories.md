@@ -9,7 +9,7 @@ GitHub is designed to run on the current versions of all major browsers.
 ## VFA Repositories
 VFA repositories Access via your browser - https://github.com/volumetricformat
 
-## [GitHub Personal Account](Github.com/my personal_account)
+## GitHub Personal Account
 The browser will perform some GIT operations automatically on your behalf
 
 ## GitHub Client (Advanced)

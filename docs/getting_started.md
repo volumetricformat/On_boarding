@@ -2,7 +2,7 @@
 
 ## Groups.io (Private)
 
-Groups.io centralises all admin requirements for VFA members 
+Groups.io centralises all admin requirements for VFA members such as; 
 
 - **Email distribution lists** can be accessed [here](https://volumetric.groups.io/g/main/subgroups ) to – Join or unsubscribe
 - **Wiki page** – Specific links and information for each Working Group
@@ -11,13 +11,13 @@ Groups.io centralises all admin requirements for VFA members
 - **Meeting schedule, calendar dates** – View & Download a specific meeting schedule
 - **Polls** - Members to vote on a submitted question
 
-> To access the VFA Groups.io account, login [here](https://volumetric.groups.io/) with you company email address
+### **Access VFA Groups.io** - login [here](https://volumetric.groups.io/) with your company email address
 
 [Groups.io overview](groups.io.md)
 
 ## GitHub (Private)
 
-This repository will form the basis for all [VFA Working Group Activities](https://github.com/volumetricformat)
+This repository will form the basis for all [VFA Speccification Development](https://github.com/volumetricformat)
 
 - **Working Group repositories** – Development of Specs & Sup files
 - **Templates** – Standardized templates (Approved by TSC)
@@ -25,7 +25,7 @@ This repository will form the basis for all [VFA Working Group Activities](https
 - **GitHub Training Material** (Public) - https://github.com/volumetricformat/GitHub_Training   
 - **The Way We Work** - Process and procedures to be followed by the VFA WG(s)
 
-> To access the VFA GitHub area, forward your company associated GitHub account to helpdesk@volumetricformat.org 
+### **Access to VFA-GitHub** - Forward your GitHub account associated with your company email address to helpdesk@volumetricformat.org (Always monitored)
 
 [GitHub member Guidelines](https://volumetricformat.github.io/GitHub_Training/#/)
 
@@ -40,8 +40,11 @@ Information that is to be incorporated into the specification or decisions for t
 **Member only channels**;
 - vfa-tsc
 - vfa-bod
-- vfa-helpdesk (Open channel)
+- vfa-helpdesk (Open channel for members to submit issues)
 
-All issues and assistance  - helpdesk@volumetricformat.org (Always monitored)
+### Request Slack Invite - Click [here](vfa-org.slack.com)
+
+## Helpdesk 
+Submit all issues and support request to - helpdesk@volumetricformat.org (Always monitored)
 
 

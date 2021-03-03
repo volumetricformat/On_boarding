@@ -2,7 +2,6 @@
   - [Introduction to VFA](Introduction.md)
   - [Getting Started](getting_started.md)
   - [VFA Structure](vfa_Structure.md)
-  - [Getting Help From Staff](getting_help_from_staff.md)
   - [Staff Contacts](contacts.md)
 
 - 2: GitHub
@@ -15,3 +14,6 @@
   - [Groups.io calendar](groups_io_calendar.md)
   - [Groups.io files](groups_io_working_with_files.md)
   - [Groups.io Wiki page](groups_io_wiki.md)
+
+- 4: Slack
+  - [Slack overview](slack.md)

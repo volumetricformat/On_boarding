@@ -11,7 +11,8 @@ Groups.io centralises all admin requirements for VFA members such as;
 - **Meeting schedule, calendar dates** – View & Download a specific meeting schedule
 - **Polls** - Members to vote on a submitted question
 
-### **Access VFA Groups.io** - login [here](https://volumetric.groups.io/) with your company email address
+### **Access VFA Groups.io** - login [here](https://volumetric.groups.io/) with your company email address. 
+>Note: Members of staff moderate all VFA groups.io requests 
 
 [Groups.io overview](groups.io.md)
 

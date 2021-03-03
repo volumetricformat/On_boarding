@@ -33,7 +33,7 @@ This repository will form the basis for all [VFA Speccification Development](htt
 - **GitHub Training Material** (Public) - https://github.com/volumetricformat/GitHub_Training   
 - **The Way We Work** - Process and procedures to be followed by the VFA WG(s)
 
-### **Accessing VFA-GitHub** - Forward your GitHub account associated with your company email address to helpdesk@volumetricformat.org (Always monitored)
+**Accessing VFA-GitHub** - Forward your GitHub account associated with your company email address to helpdesk@volumetricformat.org (Always monitored)
 
 [GitHub member Guidelines](https://volumetricformat.github.io/GitHub_Training/#/)
 

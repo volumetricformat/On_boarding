@@ -7,7 +7,7 @@ To get you started there are a few steps we need you to do to get you colaborati
 2. Forward your GitHub username associated with your company email address to helpdesk@volumetricformat.org
 3. [Login](vfa-org.slack.com) to access VFA Slack channels
 
-## Accessing Groups.io (Private)
+## Groups.io (Private)
 
 Groups.io centralises all admin requirements for VFA members such as; 
 
@@ -40,7 +40,7 @@ Forward your GitHub account associated with your company email address to [helpd
 [GitHub member Guidelines](https://volumetricformat.github.io/GitHub_Training/#/)
 
 
-## Accessing VFA Slack Channels (Private)
+## Slack Channels (Private)
 
 [This space](vfa-org.slack.com) is for VFA members to communicate informally with other members.  
 

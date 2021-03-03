@@ -1,9 +1,9 @@
 # Getting Started
 
 Welcome to VFA! 
-To get you started there are a few steps we need you to do to get you colaborating with other VFA Members.
+To get you started, there are a few steps we need you to do to get you collaborating with other VFA Members.
 
-1. VFA Groups.io - [Login](https://volumetric.groups.io/g/main/subgroups) to Groups.io to create an account
+1. VFA Groups.io - [Sign-in](https://volumetric.groups.io/g/main/subgroups) to Groups.io to create an account
 2. VFA GitHub - Forward your GitHub username associated with your company email address to helpdesk@volumetricformat.org
 3. VFA Slack - [Login](vfa-org.slack.com) to access VFA Slack channels
 
@@ -18,15 +18,14 @@ Groups.io centralises all admin requirements for VFA members such as;
 - **Meeting schedule, calendar dates** – View & Download a specific meeting schedule
 - **Polls** - Members to vote on a submitted question
 
-### **Access VFA Groups.io**
-Login [here](https://volumetric.groups.io/) with your company email address. 
+**Access VFA Groups.io** Sign-in [here](https://volumetric.groups.io/) with your company email address. 
 >Note: Members of staff moderate all VFA groups.io requests 
 
 [Groups.io overview](groups.io.md)
 
 ## GitHub (Private)
 
-This repository will form the basis for all [VFA Speccification Development](https://github.com/volumetricformat)
+This repository will form the basis for all [VFA Specification Development](https://github.com/volumetricformat)
 
 - **Working Group repositories** – Development of Specs & Sup files
 - **Templates** – Standardized templates (Approved by TSC)
@@ -47,7 +46,7 @@ Forward your GitHub account associated with your company email address to [helpd
 Slack should not be used to communicate decisions that would normally be made more formally in the group (technical decision / Board decision)
 Information that is to be incorporated into the specification or decisions for the Board should be included in formal contributions. 
 
-**Member only channels**;
+**Member-only channels**;
 - vfa-tsc
 - vfa-bod
 - vfa-helpdesk (Open channel for members to submit issues)
@@ -56,5 +55,3 @@ Information that is to be incorporated into the specification or decisions for t
 
 ## Helpdesk 
 Submit all issues and support request to [helpdesk](mailto:helpdesk@volumetricformat.org) (Always monitored)
-
-

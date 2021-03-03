@@ -4,9 +4,9 @@ Welcome to VFA!
 
 To get you started, there are a few steps we need you to do to get you collaborating with other VFA Members.
 
-1. VFA Groups.io - [Sign-in](https://volumetric.groups.io/g/main/subgroups) to Groups.io to create an account 
-2. VFA GitHub - Forward your GitHub username associated with your company email address to helpdesk@volumetricformat.org. (See [Creating a GitHub Account](creating_an_account.md)).
-3. VFA Slack - [Login](vfa-org.slack.com) to access VFA Slack channels
+1. **VFA Groups.io** - [Sign-in](https://volumetric.groups.io/g/main/subgroups) to Groups.io to create an account 
+2. **VFA GitHub** - Forward your GitHub username associated with your company email address to helpdesk@volumetricformat.org. (See [Creating a GitHub Account](creating_an_account.md)).
+3. **VFA Slack** - [Login](vfa-org.slack.com) to access VFA Slack channels
 
 ## Groups.io (Private)
 

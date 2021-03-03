@@ -1,9 +1,4 @@
 ## VFA
-New Members Orientation Session that covers
+New Members Orientation 
 
-### VFA All
-### Onboarding
 
-### Files
-
-### New Members Orientation

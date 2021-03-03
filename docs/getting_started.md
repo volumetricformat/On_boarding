@@ -1,6 +1,7 @@
 # Getting Started
 
 Welcome to VFA! 
+
 To get you started, there are a few steps we need you to do to get you collaborating with other VFA Members.
 
 1. VFA Groups.io - [Sign-in](https://volumetric.groups.io/g/main/subgroups) to Groups.io to create an account 

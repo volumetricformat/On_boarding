@@ -6,6 +6,59 @@ VFA is leading the way to a unified volumetric video ecosystem by defining a set
 ## Membership
 Our members are the titans of video capture, broadcast, and delivery.  With membership roles for Enterprises, Innovators, and Adopters, VFA has a place for all companies on the cutting edge of video technology. 
 
+## The Purpose
+To develop a volumetric ecosystem by bringing together companies from seven different verticals to work together to  establish a collection of specifications that will drive adoption of volumetric capture, processing, encoding, delivering and playback. 
+
+### Unlock innovation and technology sharing
+- Lead definition of a new bandwidth-intensive, industry format
+- Avoid a fragmented ecosystem and accelerate launch of new products / services
+- Leverage experts in each the vertical areas (e.g., capture, processing); reduce R&D spend
+- Reduce friction for collaboration (utilize association working groups, bilateral agreements)
+- Develop a set of specifications that allow for connections between each of the technical verticals to integrate with each other.   
+
+<figure>
+	<img src="img/VFA 6 Areas.PNG" alt="ecosystem development">
+</figure>
+
+## Why Volumetric Trade Association
+
+**1. Technology is maturing** 
+  - Consolidation continues to happen in the ventures space leading us to drive technologies that can be scaled for various consumer experiences.
+  
+**2. Unlock innovation and technology sharing** 
+  - Enable a core foundation of companies in each of the verticals to share IP into the association
+   
+**3. Enable multi-industry ecosystem** 
+  - Allow the core foundation of companies to work with each other through a common framework, without requiring bi-lateral contracts with each other
+   
+**4. Encourage product building** 
+  - Allows for companies to begin to build technology components that they can each turn into new products / services. 
+
+## Additional goals and benefits 
+### Begins to bring the technologies together
+- A collection of technology specifications that work together
+- Enable multi-industry ecosystem 
+- Encourage product building 
+- Keep costs/risk low 
+### Needs To 
+- Bring the content studios together with the device industry 
+- Build global format to encourage adoption
+- Educate businesses and consumers on volumetric content
+- Avoid a format war
+
+## The Key Membership Levels
+### Founding Charter Member
+- Verizon - On the board directors
+- Contributing encoding and delivery technology to the association
+
+### Seven Founding Members 
+- On the board of directors
+- Microsoft, Nvidia, Zeiss, Intel, Red Digital Cinema, Unity, Canon
+
+### Fourteen Enterprise Founding Members
+- On the board of directors
+- In progress
+
 ## VFA Membership Level Benifits
 
 <table>
@@ -98,4 +151,7 @@ Our members are the titans of video capture, broadcast, and delivery.  With memb
   </tbody>
 </table>
 
-
+## Current Members
+<figure>
+	<img src="img/members.PNG" alt="Current_Members">
+</figure>

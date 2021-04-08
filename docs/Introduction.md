@@ -22,25 +22,26 @@ To develop a volumetric ecosystem by bringing together companies from seven diff
 
 ## Why Volumetric Trade Association
 
-**1. Technology is maturing**
+**1. Technology is maturing -**
 Consolidation continues to happen in the ventures space leading us to drive technologies that can be scaled for various consumer experiences.
   
-**2. Unlock innovation and technology sharing**
+**2. Unlock innovation and technology sharing -**
 Enable a core foundation of companies in each of the verticals to share IP into the association
    
-**3. Enable multi-industry ecosystem**
+**3. Enable multi-industry ecosystem -**
 Allow the core foundation of companies to work with each other through a common framework, without requiring bi-lateral contracts with each other
    
-**4. Encourage product building**
+**4. Encourage product building -**
 Allows for companies to begin to build technology components that they can each turn into new products / services. 
 
 ## Additional goals and benefits 
-### Begins to bring the technologies together
+**Begins to bring the technologies together**
 - A collection of technology specifications that work together
 - Enable multi-industry ecosystem 
 - Encourage product building 
-- Keep costs/risk low 
-### Needs To 
+- Keep costs/risk low
+-  
+**Needs To** 
 - Bring the content studios together with the device industry 
 - Build global format to encourage adoption
 - Educate businesses and consumers on volumetric content

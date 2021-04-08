@@ -40,7 +40,7 @@ Allows for companies to begin to build technology components that they can each 
 - Enable multi-industry ecosystem 
 - Encourage product building 
 - Keep costs/risk low
--  
+ 
 **Needs To** 
 - Bring the content studios together with the device industry 
 - Build global format to encourage adoption

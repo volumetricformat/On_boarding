@@ -22,17 +22,17 @@ To develop a volumetric ecosystem by bringing together companies from seven diff
 
 ## Why Volumetric Trade Association
 
-**1. Technology is maturing** 
-  - Consolidation continues to happen in the ventures space leading us to drive technologies that can be scaled for various consumer experiences.
+**1. Technology is maturing**
+Consolidation continues to happen in the ventures space leading us to drive technologies that can be scaled for various consumer experiences.
   
-**2. Unlock innovation and technology sharing** 
-  - Enable a core foundation of companies in each of the verticals to share IP into the association
+**2. Unlock innovation and technology sharing**
+Enable a core foundation of companies in each of the verticals to share IP into the association
    
-**3. Enable multi-industry ecosystem** 
-  - Allow the core foundation of companies to work with each other through a common framework, without requiring bi-lateral contracts with each other
+**3. Enable multi-industry ecosystem**
+Allow the core foundation of companies to work with each other through a common framework, without requiring bi-lateral contracts with each other
    
-**4. Encourage product building** 
-  - Allows for companies to begin to build technology components that they can each turn into new products / services. 
+**4. Encourage product building**
+Allows for companies to begin to build technology components that they can each turn into new products / services. 
 
 ## Additional goals and benefits 
 ### Begins to bring the technologies together
@@ -47,15 +47,15 @@ To develop a volumetric ecosystem by bringing together companies from seven diff
 - Avoid a format war
 
 ## The Key Membership Levels
-### Founding Charter Member
+**Founding Charter Member**
 - Verizon - On the board directors
 - Contributing encoding and delivery technology to the association
 
-### Seven Founding Members 
+**Seven Founding Members** 
 - On the board of directors
 - Microsoft, Nvidia, Zeiss, Intel, Red Digital Cinema, Unity, Canon
 
-### Fourteen Enterprise Founding Members
+**Fourteen Enterprise Founding Members**
 - On the board of directors
 - In progress
 

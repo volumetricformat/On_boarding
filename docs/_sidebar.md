@@ -1,5 +1,6 @@
 - 1: VFA overview
   - [Introduction to VFA](Introduction.md)
+  - [Specification Development](specification_development.md)
   - [Getting Started](getting_started.md)
   - [VFA Structure](vfa_Structure.md)
   - [Staff Contacts](contacts.md)

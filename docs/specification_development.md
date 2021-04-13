@@ -2,23 +2,10 @@
 
 ## GitHub - VFA Specifications Development Area
 **Github VFA Repo** - https://github.com/volumetricformat 
-- Working Group Specification development overview
-  - The way we work - VFA  overview of Processes, Rules, Roles and Tools 
+- This area will host all Working Group Specification development.
+  - [The way we work](https://github.com/volumetricformat/the_way_we_work/blob/Initial_proposal/Rules/the_way_we_work.md) - VFA  overview of Processes, Rules, Roles and Tools 
 
-- **Repository Allocation** - Each Working Group (WG) will be allocated an associated repository
-  - Templates
-  - Guidelines
-  - ReadMe overview
-
-- **Development Repository** - Public repo exposed for the developer community to provide feedback and issues
-
-## Questions
-
-**What language will be used for Spec development**
-Suggested Option - Markdown (.md)
-
-**GitHub access rights** Will all VFA WG private repo’s be open to all Organisational signed-up members or will each WG repo have specific access rights?
-Membership levels will determine the level of access each member Company will be provided.
+- **Repository Allocation** - Each Working Group (WG) has been allocated an associated repository for Specification Development.
 
 ## Tools
 **Groups.io (volumetricformat@groups.io)**
@@ -31,4 +18,14 @@ Membership levels will determine the level of access each member Company will be
 
 **GitHub** (https://github.com/volumetricformat) 
 - Specification storage - Public and Private repositories
+
+## FAQ Questions
+
+**What language will be used for Spec development**
+Github flavoured Markdown (.md)
+
+**What are the current GitHub access rights** 
+Membership levels will determine the level of access each member Company will be provided.
+
+
 

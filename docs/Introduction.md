@@ -20,7 +20,7 @@ To develop a volumetric ecosystem by bringing together companies from seven diff
 	<img src="img/VFA 6 Areas.PNG" alt="ecosystem development">
 </figure>
 
-## Why Volumetric Trade Association
+## Why Volumetric Format  Association
 
 **1. Technology is maturing -**
 Consolidation continues to happen in the ventures space leading us to drive technologies that can be scaled for various consumer experiences.

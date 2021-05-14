@@ -94,7 +94,7 @@ Allows for companies to begin to build technology components that they can each 
         <td>-</td>
     </tr>
     <tr>
-        <td>Can Suggest Creation of Working Groups</td>
+        <td>Can propose new Working Groups</td>
         <td>Yes</td>
         <td>No</td>
         <td>No</td>
@@ -108,21 +108,21 @@ Allows for companies to begin to build technology components that they can each 
         <td>-</td>
     </tr>
     <tr>
-        <td>Can vote inside a Working Group</td>
+        <td>Can vote within Working Group</td>
         <td>Yes</td>
         <td>Yes</td>
         <td>No</td>
         <td>-</td>
     </tr>	  
     <tr>
-        <td>Can access Draft Specifications</td>
+        <td>Access to Draft Specifications</td>
         <td>Yes</td>
         <td>Yes</td>
         <td>No</td>
         <td>-</td>
     </tr>
     <tr>
-        <td>Can access Final Approved Specifications</td>
+        <tdAccess to Final Approved Specifications</td>
         <td>Yes</td>
         <td>Yes</td>
         <td>Yes</td>
@@ -137,13 +137,6 @@ Allows for companies to begin to build technology components that they can each 
     </tr>
     <tr>
         <td>Can attend quartely meetings</td>
-        <td>Yes</td>
-        <td>Yes</td>
-        <td>Yes</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>Can participate in a round robin testing</td>
         <td>Yes</td>
         <td>Yes</td>
         <td>Yes</td>

@@ -58,7 +58,7 @@ Allows for companies to begin to build technology components that they can each 
 
 ### Organization Structure
 <figure>
-	<img src="images/organization_structure.svg" alt="VFA Organization Structure">
+	<img src="img/organization_structure.svg" alt="VFA Organization Structure">
 </figure>
 
 ## VFA Membership Level Benifits

@@ -56,7 +56,7 @@ Allows for companies to begin to build technology components that they can each 
 - On the board of directors
 - Microsoft, Nvidia, Zeiss, Intel, Red Digital Cinema, Unity, Canon
 
-### Organization Structure
+## Organization Structure
 <figure>
 	<img src="img/organization_structure.svg" alt="VFA Organization Structure">
 </figure>
